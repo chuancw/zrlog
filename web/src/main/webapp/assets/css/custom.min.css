@@ -56,7 +56,7 @@
 }
 
 .nav-sm .nav.side-menu li a {
-    font-size: 10px;
+    font-size: 12px;
     font-weight: 400;
     padding: 10px 5px;
     text-align: center !important;
@@ -153,7 +153,7 @@
 
 .profile_info span {
     color: #bab8b8;
-    font-size: 13px;
+    font-size: 14px;
     line-height: 30px;
 }
 
@@ -407,10 +407,10 @@ body .container.body .right_col {
 body {
     background: #2a3f54 none repeat scroll 0 0;
     color: #73879c;
-    font-family: "Helvetica Neue", Roboto, Arial, "Droid Sans", sans-serif;
-    font-size: 13px;
+    font-family: Monospaced Number,Chinese Quote,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 14px;
     font-weight: 400;
-    line-height: 1.471;
+    line-height: 22px;
 }
 
 .main_container .top_nav {
@@ -535,11 +535,6 @@ table.no-margin .progress {
 h1, .h1, h2, .h2, h3, .h3 {
     margin-bottom: 10px;
     margin-top: 10px;
-}
-
-a {
-    color: #5a738e;
-    text-decoration: none;
 }
 
 a, a:visited, a:focus, a:active, *:visited, *:focus, *:active, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn.focus:active, .btn.active.focus {
@@ -802,7 +797,7 @@ a:hover, a:focus {
 
 .nav.child_menu > li > a {
     color: rgba(255, 255, 255, 0.75);
-    font-size: 12px;
+    font-size: 14px;
     padding: 9px;
 }
 
@@ -972,7 +967,7 @@ h2 {
 .detail a {
     border: 1px solid #c0392b;
     color: #c0392b;
-    font-size: 13px;
+    font-size: 14px;
     margin-right: 7px;
     padding: 6px 10px 5px;
     text-decoration: none;
@@ -1247,7 +1242,7 @@ h3.degrees {
 
 .degrees::after {
     content: "o";
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 300;
     position: relative;
     top: -12px;
@@ -1553,7 +1548,7 @@ ul.msg_list li a .message {
     box-shadow: none;
     display: none;
     float: left;
-    font-size: 12px;
+    font-size: 14px;
     left: 0;
     list-style: outside none none;
     padding: 0;
@@ -1584,7 +1579,7 @@ ul.msg_list li a .message {
 .info-number .badge {
     font-size: 10px;
     font-weight: normal;
-    line-height: 13px;
+    line-height: 14px;
     padding: 2px 6px;
     position: absolute;
     right: 2px;
@@ -1814,12 +1809,12 @@ span.right {
 }
 
 .tile_count .tile_stats_count span {
-    font-size: 12px;
+    font-size: 14px;
 }
 
 @media (min-width: 768px) {
     .tile_count .tile_stats_count span {
-        font-size: 13px;
+        font-size: 14px;
     }
 }
 
@@ -2004,7 +1999,7 @@ h4.graph_title {
 }
 
 .tile-stats p {
-    font-size: 12px;
+    font-size: 14px;
     margin-top: 5px;
 }
 
@@ -2459,7 +2454,7 @@ input.parsley-error, textarea.parsley-error, select.parsley-error {
 .well .markup::after {
     color: #bbb;
     content: "Example";
-    font-size: 12px;
+    font-size: 14px;
     font-weight: bold;
     left: 15px;
     letter-spacing: 1px;
@@ -2530,7 +2525,7 @@ a.btn-success, a.btn-warning a.btn-primary a.btn-danger {
     border-radius: 0;
     box-shadow: none;
     color: #666;
-    font-size: 12px;
+    font-size: 14px;
     height: 60px;
     margin: 0 0 10px 10px;
     min-width: 80px;
@@ -2645,7 +2640,7 @@ textarea:focus {
     }
 
     .bs-glyphicons li {
-        font-size: 12px;
+        font-size: 14px;
         width: 12.5%;
     }
 }
@@ -2753,7 +2748,7 @@ ul.timeline li {
 
 .timeline .tag {
     display: block;
-    font-size: 13px;
+    font-size: 14px;
     height: 30px;
     padding: 8px;
 }
@@ -2775,7 +2770,7 @@ ul.timeline li {
 }
 
 span.tag2 {
-    background: #1abb9c none repeat scroll 0 0;
+    background: #1890ff none repeat scroll 0 0;
     color: #f1f6f7;
     display: block;
     float: left;
@@ -2803,7 +2798,7 @@ span.tag2 a {
     border: 1px solid transparent;
     color: #000;
     font-family: helvetica;
-    font-size: 13px;
+    font-size: 14px;
     margin: 0;
     outline: 0 none;
     padding: 3px;
@@ -3247,7 +3242,7 @@ ul.stats-overview li:last-child {
 }
 
 ul.stats-overview li .name {
-    font-size: 12px;
+    font-size: 14px;
 }
 
 ul.stats-overview li .value {
@@ -3334,7 +3329,7 @@ ul.project_files li a i {
 
 .pricing_footer p {
     display: block;
-    font-size: 13px;
+    font-size: 14px;
     padding: 10px 0 2px;
 }
 
@@ -3460,7 +3455,7 @@ ul.project_files li a i {
 .view p {
     color: #fff;
     font-family: Georgia, serif;
-    font-size: 12px;
+    font-size: 14px;
     font-style: italic;
     padding: 10px 20px 20px;
     position: relative;
@@ -3620,7 +3615,7 @@ ul.project_files li a i {
     border: 2px solid rgba(195, 194, 196, 0.8);
     color: #666;
     font-family: sans-serif;
-    font-size: 12px;
+    font-size: 14px;
     padding: 6px;
     text-align: center;
 }
@@ -3874,7 +3869,7 @@ a.hiddenanchor {
 }
 
 .login_content form div a {
-    font-size: 12px;
+    font-size: 14px;
     margin: 10px 15px 0 0;
 }
 
@@ -4433,30 +4428,6 @@ ul.verticle_bars li {
     width: 35px;
 }
 
-.alert-success {
-    background-color: rgba(38, 185, 154, 0.88);
-    border-color: rgba(38, 185, 154, 0.88);
-    color: #ffffff;
-}
-
-.alert-info {
-    background-color: rgba(52, 152, 219, 0.88);
-    border-color: rgba(52, 152, 219, 0.88);
-    color: #e9edef;
-}
-
-.alert-warning {
-    background-color: rgba(243, 156, 18, 0.88);
-    border-color: rgba(243, 156, 18, 0.88);
-    color: #e9edef;
-}
-
-.alert-danger, .alert-error {
-    background-color: rgba(231, 76, 60, 0.88);
-    border-color: rgba(231, 76, 60, 0.88);
-    color: #e9edef;
-}
-
 .ui-pnotify.dark .ui-pnotify-container {
     background-color: rgba(52, 73, 94, 0.88);
     border-color: rgba(52, 73, 94, 0.88);
@@ -4530,7 +4501,7 @@ ul.notifications {
 }
 
 .daterangepicker.dropdown-menu {
-    font-size: 13px;
+    font-size: 14px;
     overflow: hidden;
     padding: 0;
 }
@@ -4686,7 +4657,7 @@ ul.notifications {
     border: 1px solid #adb2b5;
     border-radius: 0 !important;
     cursor: default;
-    font-size: 12px;
+    font-size: 14px;
     height: 30px;
     line-height: 30px;
     margin: 0;
@@ -4768,7 +4739,7 @@ ul.notifications {
     border-radius: 5px;
     color: #536a7f;
     cursor: pointer;
-    font-size: 13px;
+    font-size: 14px;
     margin-bottom: 8px;
     padding: 3px 12px;
 }
@@ -5176,7 +5147,7 @@ tr.ui-search-toolbar select {margin: 1px 0 0 0}
     background-color: #2a91d8;
 }
 .ui-jqgrid .ui-jqgrid-view, .ui-jqgrid .ui-paging-info, .ui-jqgrid .ui-pg-table, .ui-jqgrid .ui-pg-selbox {
-    font-size: 13px;
+    font-size: 14px;
 }
 .ui-jqgrid .ui-jqgrid-title {
     float: left;
@@ -5328,7 +5299,7 @@ tr.ui-search-toolbar select {margin: 1px 0 0 0}
     border: 2px solid #8eb8d1;
     color: #e2b018;
     display: none;
-    font-size: 12px;
+    font-size: 14px;
     font-weight: bold;
     height: auto;
     left: 45%;
@@ -5359,7 +5330,7 @@ tr.ui-search-toolbar select {margin: 1px 0 0 0}
 }
 .ui-jqgrid-sortable {
     color: #777;
-    font-size: 13px;
+    font-size: 14px;
     font-weight: bold;
     padding-left: 4px;
 }
@@ -5388,7 +5359,7 @@ th[aria-selected="true"] .ui-jqgrid-sortable {
     content: "";
     display: inline;
     font-family: FontAwesome;
-    font-size: 12px;
+    font-size: 14px;
 }
 .ui-icon-asc::before {
     content: "";
@@ -5485,15 +5456,15 @@ th[aria-selected="true"] .ui-jqgrid-sortable {
     content: "";
 }
 .ui-jqdialog-content, .ui-jqdialog .ui-jqdialog-content {
-    font-size: 13px;
+    font-size: 14px;
     padding: 4px 0 0;
 }
 .ui-jqdialog-content .formdata, .ui-jqdialog .ui-jqdialog-content .formdata {
-    font-size: 13px;
+    font-size: 14px;
     padding: 6px 12px;
 }
 .ui-jqdialog-content .form-view-data, .ui-jqdialog .ui-jqdialog-content .form-view-data {
-    font-size: 13px;
+    font-size: 14px;
     vertical-align: middle;
 }
 .ui-jqdialog-content[id*="alertcnt_"], .ui-jqdialog .ui-jqdialog-content[id*="alertcnt_"] {
@@ -5501,7 +5472,7 @@ th[aria-selected="true"] .ui-jqgrid-sortable {
 }
 .ui-jqdialog-content .CaptionTD {
     color: #666;
-    font-size: 12px;
+    font-size: 14px;
     text-align: right;
 }
 .ui-jqdialog-content .FormData {
@@ -6468,4 +6439,9 @@ a.btn-danger {
 .switchery > small {
     height: 20px;
     width: 20px;
+}
+
+
+.ui-jqgrid {
+    border-radius: 4px;
 }

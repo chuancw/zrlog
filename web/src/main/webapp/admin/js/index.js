@@ -163,7 +163,7 @@ function loadHTML(url, id) {
     $("#" + id).load(url, function (e) {
         NProgress.done();
         $(".js-switch").each(function (e) {
-            new Switchery($(".js-switch").get(e), {color: "#26B99A"})
+            new Switchery($(".js-switch").get(e), {color: "#1890ff"})
         })
     });
     after();
